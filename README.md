@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 
- ![Snake animation](https://github.com/aydinyagizz/aydinyagizz/blob/output/github-contribution-grid-snake.svg) <br>
+ <br>
    ![trophy](https://github-profile-trophy.vercel.app/?username=aydinyagizz&theme=nord)
 
   
