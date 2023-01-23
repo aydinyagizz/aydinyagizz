@@ -38,9 +38,6 @@ Here are some ideas to get you started:
 
 
 
- <br>
-   ![trophy](https://github-profile-trophy.vercel.app/?username=aydinyagizz&theme=nord)
-
   
   
  
