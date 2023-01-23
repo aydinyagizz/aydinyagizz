@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/aydinyagizz.gif?z=6)](https://github4life.herokuapp.com/aydinyagizz)
 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/aydinyagizz/aydinyagizz/output/github-contribution-grid-snake.svg)
   
   
   
