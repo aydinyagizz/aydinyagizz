@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 [![GitHub Game of Life](https://github4life.herokuapp.com/aydinyagizz.gif?z=6)](https://github4life.herokuapp.com/aydinyagizz)
 
   
-  
+  ![Snake animation](https://github.com/aydinyagizz/aydinyagizz/blob/output/github-contribution-grid-snake.svg)
   
