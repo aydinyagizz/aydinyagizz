@@ -1,8 +1,9 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/aydinyagizz/aydinyagizz/blob/main/header.png"></div>
 
 
+
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AYDIN+YA%C4%9EIZ+-+SOFTWARE+ENGINEER)](https://git.io/typing-svg)
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&pause=1000&width=650&lines=AYDIN+YA%C4%9EIZ+-+SOFTWARE+ENGINEER"></a>
 </div>
 
 
