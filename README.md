@@ -41,14 +41,5 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/aydinyagizz/aydinyagizz/blob/output/github-contribution-grid-snake.gif)
 
 
-<p align="left">
-
-<a href = “hetps: //ssm Linkedin. com/in/baviserts-narayan-a94b59180/"><img. src="hetps://Amg.Acons8. con/ fluent /48/000000/1inkedin.png”L></a>
-
-<a href = //oaon. Anstagram,con/bavisettinarayan/”><img src*"https: //{ng. 1cons8 .con/luent/48 /000000/instagram-new.png"L></a>
-
-<a het = (pao. youtube .con/channel /WCcml)faRuH2s_FPKAXRVIiw" ><img. srce"https://im. 1consB..com/color/48/000000/ youtube play png” L></a)
-
-</p>
 
 
