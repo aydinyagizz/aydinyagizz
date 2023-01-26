@@ -1,5 +1,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/aydinyagizz/aydinyagizz/blob/main/header.png"></div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AYDIN+YA%C4%9EIZ+-+SOFTWARE+ENGINEER)](https://git.io/typing-svg)
+
 
 👋 Merhaba, Ben **Aydın Yağız**
 - 👀 Web Uygulamaları geliştiriyorum.
