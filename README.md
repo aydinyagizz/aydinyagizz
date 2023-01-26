@@ -23,19 +23,17 @@ Here are some ideas to get you started:
 
 ##
 
-<div class="row">
-  
-  <div class="col-md-6">
+
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=aydinyagizz&show_icons=true&theme=gradient) 
-  </div>
+ 
 
 
-  <div class="col-md-6">   
+  <div>   
 <a href="https://www.linkedin.com/in/aydin-yagiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&lo-goColor=white" target="_blank"></a>   
 </div>
 
-</div>
+
 
 ##
 
