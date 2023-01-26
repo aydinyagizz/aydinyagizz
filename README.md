@@ -1,3 +1,5 @@
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/aydinyagizz/aydinyagizz/blob/main/header.png"></div>
+
 
 👋 Merhaba, Ben **Aydın Yağız**
 - 👀 Web Uygulamaları geliştiriyorum.
@@ -5,7 +7,7 @@
 
 
 
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/aydinyagizz/aydinyagizz/blob/main/header.png"></div>
+
 
 
 
