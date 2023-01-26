@@ -42,4 +42,5 @@ Here are some ideas to get you started:
 
 
 
+        <details open><summary>Full history</summary><img alt="" width="400" src="https://github.com/aydinyagizz/aydinyagizz/blob/examples/metrics.plugin.calendar.full.svg" alt=""></img></details>
 
