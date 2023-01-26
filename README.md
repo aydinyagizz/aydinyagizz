@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 
 ##
 
-<p class="row">
+<div class="row">
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=aydinyagizz&show_icons=true&theme=gradient) 
 
-##
+
 
   <div>   
 <a href="https://www.linkedin.com/in/aydin-yagiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&lo-goColor=white" target="_blank"></a>   
 </div>
 
-</p>
+</div>
 
 ##
 
