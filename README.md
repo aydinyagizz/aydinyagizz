@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ##
 
+<p class="row">
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=aydinyagizz&show_icons=true&theme=gradient) 
 
@@ -31,6 +32,8 @@ Here are some ideas to get you started:
   <div>   
 <a href="https://www.linkedin.com/in/aydin-yagiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&lo-goColor=white" target="_blank"></a>   
 </div>
+
+</p>
 
 ##
 
@@ -41,6 +44,4 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/aydinyagizz/aydinyagizz/blob/output/github-contribution-grid-snake.gif)
 
 
-
-        <details open><summary>Full history</summary><img alt="" width="400" src="https://github.com/aydinyagizz/aydinyagizz/blob/examples/metrics.plugin.calendar.full.svg" alt=""></img></details>
 
