@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 ##
 
 <div class="row">
+  
+  <div>
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=aydinyagizz&show_icons=true&theme=gradient) 
-
+  </div>
 
 
   <div>   
