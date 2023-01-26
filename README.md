@@ -46,3 +46,7 @@ Here are some ideas to get you started:
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+
+        <details open><summary>Worldmap</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
