@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 
 
-![snake gif](https://github.com/aydinyagizz/aydinyagizz/blob/output/github-contribution-grid-snake.gif)
+#![snake gif](https://github.com/aydinyagizz/aydinyagizz/blob/output/github-contribution-grid-snake.gif)
 
 
 
