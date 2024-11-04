@@ -7,6 +7,11 @@
 </div>
 
 
+[![GitHub followers](https://img.shields.io/github/followers/aydinyagizz?style=social)](https://github.com/aydinyagizz?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/aydinyagizz?style=social)
+
+
+
 👋 Merhaba, Ben **Aydın Yağız**
 - 👀 Web Uygulamaları geliştiriyorum.
 - 🌱 Php, Laravel, C#, .Net ile ilgileniyorum.
