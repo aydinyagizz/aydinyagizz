@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 
 
-![snake animation](https://github.com/aydinyagizz/aydinyagizz/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/aydinyagizz/aydinyagizz/output/github-contribution-grid-snake-dark.svg)
 
 
 
