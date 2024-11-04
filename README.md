@@ -38,7 +38,14 @@ Here are some ideas to get you started:
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=aydinyagizz&show_icons=true&theme=gradient) 
+
+
+
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydinyagizz&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  </p>
  
+
 
 
   <div>   
@@ -59,6 +66,8 @@ Here are some ideas to get you started:
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+
 
 
 
