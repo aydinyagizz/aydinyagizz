@@ -42,18 +42,36 @@ Here are some ideas to get you started:
 
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=aydinyagizz&show_icons=true&theme=gradient) 
+<!--- ![Github stats 1](https://github-readme-stats.vercel.app/api?username=aydinyagizz&show_icons=true&theme=gradient)  -->
 
 
+<!--- 
+<p>
+   <img src="https://github-readme-stats.vercel.app/api?username=aydinyagizz&show_icons=true&theme=tokyonight&hide_border=true">
+
+</p>
 
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydinyagizz&hide=python&layout=compact&show_icons=true&theme=tokyonight">
-  </p>
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydinyagizz&hide=python&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
+  </p>  -->
 
 
 
-  <div>   
+<div align="center" style="bottom: 30px;">
+  <a href="https://github.com/aydinyagizz">
+   <img src="https://github-readme-stats.vercel.app/api?username=aydinyagizz&show_icons=true&theme=tokyonight&hide_border=true">
+  </a>
+  <a href="https://github.com/aydinyagizz">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydinyagizz&hide=python&layout=compact&show_icons=true&theme=tokyonight&hide_border=true">
+  </a>
+</div>
+
+<dl><dd><dl><dd><dl><dd><dl><dd>
+
+</dd></dl></dd></dl></dd></dl></dd></dl>
+
+
+  <div align="center">   
 <a href="https://www.linkedin.com/in/aydin-yagiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&lo-goColor=white" target="_blank"></a>   
 </div>
 
