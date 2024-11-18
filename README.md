@@ -71,8 +71,14 @@ Here are some ideas to get you started:
 </dd></dl></dd></dl></dd></dl></dd></dl>
 
 
-  <div align="center">   
+ <!--- <div align="center">   
 <a href="https://www.linkedin.com/in/aydin-yagiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&lo-goColor=white" target="_blank"></a>   
+</div> --->
+
+<div align="center">   
+  <a href="https://www.linkedin.com/in/aydin-yagiz/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>   
 </div>
 
 
